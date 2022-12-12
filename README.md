@@ -18,6 +18,6 @@ An android app with voting features for an organization, CSE Society.
 - Admin can see the number of votes for each candidate.
 
 ## Working Stacks
-Language: Java
-Platform: Android Studio
-Database: Firebase
+*Language: Java
+*Platform: Android Studio
+*Database: Firebase
