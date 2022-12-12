@@ -16,3 +16,8 @@ An android app with voting features for an organization, CSE Society.
 - Admin can create a voting event and the posts to be elected.
 - Admin can approve a user as a candidate for a post.
 - Admin can see the number of votes for each candidate.
+
+## Working Stacks
+Language: Java
+Platform: Android Studio
+Database: Firebase
